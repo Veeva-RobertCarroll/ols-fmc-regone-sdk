@@ -1,0 +1,31 @@
+{
+  "connections" : [ ],
+  "ide" : {
+    "connectionPrefix" : "CONN_",
+    "documentFieldPrefix" : "DOCFIELD_",
+    "documentLifecyclePrefix" : "LIFECYCLE_",
+    "documentLifecycleRolePrefix" : "ROLE_",
+    "documentLifecycleStatePrefix" : "STATE_",
+    "documentVersionVariable" : "documentVersion",
+    "javaCodePath" : "src/main/java",
+    "messageVariable" : "message",
+    "objectFieldPrefix" : "OBJFIELD_",
+    "objectLifecyclePrefix" : "LIFECYCLE_",
+    "objectLifecycleRole" : "ROLE_",
+    "objectLifecycleStatePrefix" : "STATE_",
+    "objectLifecycleUserActionPrefix" : "USER_ACTION_",
+    "objectPrefix" : "OBJECT_",
+    "objectRecordChangeVariable" : "recordChange",
+    "objectRecordVariable" : "record",
+    "picklistPrefix" : "PICKLIST_",
+    "picklistValuePrefix" : "PICKLIST_VALUE_",
+    "pluginSettingVersion" : "20R1.0",
+    "queuePrefix" : "QUEUE_",
+    "queueServiceVariable" : "queueService"
+  },
+  "credentials": [
+    {
+      "name": "FMC RegulatoryOne SBX 4T"
+    }
+  ]
+}
